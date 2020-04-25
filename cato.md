@@ -33,7 +33,7 @@ key: page-about
 
 ### 面板数据处理
 
-- [Stata面板数据处理——什么是面板数据？](https://www.bilibili.com/video/BV1y741127iq)
+- <font color=Blue>[Stata面板数据处理——什么是面板数据？](https://www.bilibili.com/video/BV1y741127iq)</font>
 - [Stata面板数据处理——面板数据的三种估计方法](https://www.bilibili.com/video/BV1Yp4y117E8)
 - [Stata面板数据处理——三种估计方法的Stata操作](https://www.bilibili.com/video/BV1hK4y1C7AX)
 - [Stata面板数据处理——行业效应、地区效应、时间固定效应](https://www.bilibili.com/video/BV1PQ4y1M7ea)
