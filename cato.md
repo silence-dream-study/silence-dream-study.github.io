@@ -65,7 +65,7 @@ key: page-about
 - [解决内生性(7)——断点回归(RDD)](https://www.bilibili.com/video/BV1e741167Qw)
 
 
-### Stata入
+### Stata入门
 - [Stata入门与进阶的资料](https://www.bilibili.com/video/BV1u7411d75w)    
 - [Stata入门——将显示界面调成黑色](https://www.bilibili.com/video/BV1KV411d7B2)
 - [Stata入门——外部命令安装](https://www.bilibili.com/video/BV1QE411x78v)
